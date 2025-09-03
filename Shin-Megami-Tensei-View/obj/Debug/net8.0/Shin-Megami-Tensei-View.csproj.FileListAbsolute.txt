@@ -42,3 +42,4 @@ C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View
 C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\refint\Shin-Megami-Tensei-View.dll
 C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\Shin-Megami-Tensei-View.pdb
 C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\ref\Shin-Megami-Tensei-View.dll
+C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-View\obj\Debug\net8.0\Shin-Megami-Tensei-View.sourcelink.json

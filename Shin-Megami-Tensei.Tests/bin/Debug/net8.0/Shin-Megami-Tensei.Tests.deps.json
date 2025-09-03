@@ -344,10 +344,22 @@
       "xunit.runner.visualstudio/2.8.2": {},
       "Shin-Megami-Tensei-Controller/1.0.0": {
         "dependencies": {
+          "Shin-Megami-Tensei-Models": "1.0.0",
           "Shin-Megami-Tensei-View": "1.0.0"
         },
         "runtime": {
           "Shin-Megami-Tensei-Controller.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Shin-Megami-Tensei-Models/1.0.0": {
+        "dependencies": {
+          "Shin-Megami-Tensei-View": "1.0.0"
+        },
+        "runtime": {
+          "Shin-Megami-Tensei-Models.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -475,6 +487,11 @@
       "hashPath": "xunit.runner.visualstudio.2.8.2.nupkg.sha512"
     },
     "Shin-Megami-Tensei-Controller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shin-Megami-Tensei-Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

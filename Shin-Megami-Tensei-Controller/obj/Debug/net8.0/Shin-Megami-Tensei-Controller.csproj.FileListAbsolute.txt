@@ -70,3 +70,6 @@ C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Cont
 C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Controller\obj\Debug\net8.0\Shin-Megami-Tensei-Controller.pdb
 C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Controller\obj\Debug\net8.0\Shin-Megami-Tensei-Controller.genruntimeconfig.cache
 C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Controller\obj\Debug\net8.0\ref\Shin-Megami-Tensei-Controller.dll
+C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Controller\obj\Debug\net8.0\Shin-Megami-Tensei-Controller.sourcelink.json
+C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Controller\bin\Debug\net8.0\Shin-Megami-Tensei-Models.dll
+C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei-Controller\bin\Debug\net8.0\Shin-Megami-Tensei-Models.pdb
