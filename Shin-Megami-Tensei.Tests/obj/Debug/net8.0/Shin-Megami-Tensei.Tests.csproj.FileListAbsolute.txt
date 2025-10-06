@@ -427,5 +427,5 @@ C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei.Test
 C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei.Tests\obj\Debug\net8.0\Shin-Megami-Tensei.Tests.pdb
 C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei.Tests\obj\Debug\net8.0\Shin-Megami-Tensei.Tests.genruntimeconfig.cache
 C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei.Tests\obj\Debug\net8.0\ref\Shin-Megami-Tensei.Tests.dll
-C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei.Tests\bin\Debug\net8.0\Shin-Megami-Tensei-Models.dll
-C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei.Tests\bin\Debug\net8.0\Shin-Megami-Tensei-Models.pdb
+C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei.Tests\bin\Debug\net8.0\Shin-Megami-Tensei-Model.dll
+C:\Users\gaspa\Desktop\Uni\DDdS\Proyecto-Megaten-IIC2113\Shin-Megami-Tensei.Tests\bin\Debug\net8.0\Shin-Megami-Tensei-Model.pdb

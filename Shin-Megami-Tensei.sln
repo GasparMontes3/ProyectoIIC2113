@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shin-Megami-Tensei-View", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shin-Megami-Tensei.Tests", "Shin-Megami-Tensei.Tests\Shin-Megami-Tensei.Tests.csproj", "{1EC1F8F9-45A6-47E4-89F8-7FAA1E4E6242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shin-Megami-Tensei-Models", "Shin-Megami-Tensei-Models\Shin-Megami-Tensei-Models.csproj", "{C8A29636-DAB3-47A4-B0BF-33E16B6631C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shin-Megami-Tensei-Model", "Shin-Megami-Tensei-Model\Shin-Megami-Tensei-Model.csproj", "{C8A29636-DAB3-47A4-B0BF-33E16B6631C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

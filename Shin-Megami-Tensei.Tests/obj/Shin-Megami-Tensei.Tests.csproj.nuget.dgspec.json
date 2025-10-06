@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-Models\\Shin-Megami-Tensei-Models.csproj": {
-                "projectPath": "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-Models\\Shin-Megami-Tensei-Models.csproj"
+              "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-Model\\Shin-Megami-Tensei-Model.csproj": {
+                "projectPath": "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-Model\\Shin-Megami-Tensei-Model.csproj"
               },
               "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-View\\Shin-Megami-Tensei-View.csproj": {
                 "projectPath": "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-View\\Shin-Megami-Tensei-View.csproj"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-Models\\Shin-Megami-Tensei-Models.csproj": {
+    "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-Model\\Shin-Megami-Tensei-Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-Models\\Shin-Megami-Tensei-Models.csproj",
-        "projectName": "Shin-Megami-Tensei-Models",
-        "projectPath": "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-Models\\Shin-Megami-Tensei-Models.csproj",
+        "projectUniqueName": "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-Model\\Shin-Megami-Tensei-Model.csproj",
+        "projectName": "Shin-Megami-Tensei-Model",
+        "projectPath": "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-Model\\Shin-Megami-Tensei-Model.csproj",
         "packagesPath": "C:\\Users\\gaspa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-Models\\obj\\",
+        "outputPath": "C:\\Users\\gaspa\\Desktop\\Uni\\DDdS\\Proyecto-Megaten-IIC2113\\Shin-Megami-Tensei-Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gaspa\\AppData\\Roaming\\NuGet\\NuGet.Config"

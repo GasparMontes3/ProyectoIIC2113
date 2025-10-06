@@ -416,7 +416,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Shin-Megami-Tensei-Models": "1.0.0",
+          "Shin-Megami-Tensei-Model": "1.0.0",
           "Shin-Megami-Tensei-View": "1.0.0"
         },
         "compile": {
@@ -426,17 +426,17 @@
           "bin/placeholder/Shin-Megami-Tensei-Controller.dll": {}
         }
       },
-      "Shin-Megami-Tensei-Models/1.0.0": {
+      "Shin-Megami-Tensei-Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Shin-Megami-Tensei-View": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Shin-Megami-Tensei-Models.dll": {}
+          "bin/placeholder/Shin-Megami-Tensei-Model.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Shin-Megami-Tensei-Models.dll": {}
+          "bin/placeholder/Shin-Megami-Tensei-Model.dll": {}
         }
       },
       "Shin-Megami-Tensei-View/1.0.0": {
@@ -975,10 +975,10 @@
       "path": "../Shin-Megami-Tensei-Controller/Shin-Megami-Tensei-Controller.csproj",
       "msbuildProject": "../Shin-Megami-Tensei-Controller/Shin-Megami-Tensei-Controller.csproj"
     },
-    "Shin-Megami-Tensei-Models/1.0.0": {
+    "Shin-Megami-Tensei-Model/1.0.0": {
       "type": "project",
-      "path": "../Shin-Megami-Tensei-Models/Shin-Megami-Tensei-Models.csproj",
-      "msbuildProject": "../Shin-Megami-Tensei-Models/Shin-Megami-Tensei-Models.csproj"
+      "path": "../Shin-Megami-Tensei-Model/Shin-Megami-Tensei-Model.csproj",
+      "msbuildProject": "../Shin-Megami-Tensei-Model/Shin-Megami-Tensei-Model.csproj"
     },
     "Shin-Megami-Tensei-View/1.0.0": {
       "type": "project",

@@ -1,32 +1,32 @@
 ﻿using Shin_Megami_Tensei_View;
-using Shin_Megami_Tensei_Models;
+using Shin_Megami_Tensei_Model;
 
 namespace Shin_Megami_Tensei;
 
 public class Game
 {
     private string teamsLocation;
-    private View view;
-    private TeamBuilder teamBuilder;
+    private ViewPrinter view;
+    private GameBoardBuilder gameBoardBuilder;
     private FileGetter fileGetter;
     private Battle battle;
     public Game(View _view, string teamsFolder)
     {
         teamsLocation =  teamsFolder;
-        view = _view;
-        teamBuilder = new TeamBuilder();
-        fileGetter = new FileGetter();
+        view = new ViewPrinter(_view);
+        gameBoardBuilder = new GameBoardBuilder();
+        fileGetter = new FileGetter(view);
     }
     
     public void Play()
     {
-        string[] teamsArray = fileGetter.GetTeamsArrayFromPath(view, teamsLocation);
-        (string, List<Unit>, string, List<Unit>) gameBoard = teamBuilder.BuildTeams(teamsArray, view);
+        string[] teamsArray = fileGetter.GetTeamsArrayFromPath(teamsLocation);
+        (string, List<Unit>, string, List<Unit>) gameBoard = gameBoardBuilder.BuildTeams(view, teamsArray);
         if (gameBoard.Item1 != "")
         {
             battle = new Battle(view, gameBoard);
             battle.BeginBattle();
         }
-        else view.WriteLine("Archivo de equipos inválido");
+        else view.PrintInvalidTeams();
     }
 }

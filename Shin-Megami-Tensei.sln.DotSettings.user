@@ -1,12 +1,11 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003APG_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FLocal_003FTemp_003Fddc4dd81_002Dd2b2_002D46f3_002Da1b5_002D911b274eb1fa_005FPrimeNumbers_002Ezip_002EPrimeNumbers_002Ezip_003FPrimeNumbers_003FPrimeNumbers_003FPG_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bda21975_002D3e78_002D4fb3_002D84c9_002D77b73793b194/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestE1_InvalidTeams" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9011380c_002Db2cf_002D44a7_002Db931_002Dbfb817cbc054/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;xUnit::1EC1F8F9-45A6-47E4-89F8-7FAA1E4E6242::net8.0::Shin_Megami_Tensei.Tests.Tests.TestE1_InvalidTeams&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::1EC1F8F9-45A6-47E4-89F8-7FAA1E4E6242::net8.0::Shin_Megami_Tensei.Tests.Tests.TestE1_BasicCombat&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;xUnit::1EC1F8F9-45A6-47E4-89F8-7FAA1E4E6242::net8.0::Shin_Megami_Tensei.Tests.Tests.TestE1_Random&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1EC1F8F9-45A6-47E4-89F8-7FAA1E4E6242::net8.0::Shin_Megami_Tensei.Tests.Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	
 	
 	
 	
